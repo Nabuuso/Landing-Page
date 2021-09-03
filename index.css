@@ -1,11 +1,4 @@
-body {
-    background-color: rgb(187, 228, 209);
-  }
-  
-  h2 {
-    color: white;
+h2{
     text-align: center;
-    font-size: 50px;
-  }
-  
-  
+    text-transform: uppercase;
+}
