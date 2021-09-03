@@ -29,4 +29,8 @@ h1{
      column-fill: balance;
      color: rgb(5, 5, 107); 
  }
- p.solid {border-style: solid;}
+.p{
+    text-align: left;
+    color: rgb(3, 10, 75);
+    text-emphasis-color:
+}
