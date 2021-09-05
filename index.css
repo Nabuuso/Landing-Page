@@ -8,6 +8,7 @@ body{
 .tab-content{
     box-decoration-break: slice;
 }
-image{
-    align-items: flex-end;
-}
+#akan1{
+    float: left;    
+     margin: 0 15px 0 0;
+    }
