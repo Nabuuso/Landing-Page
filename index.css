@@ -5,3 +5,9 @@ body{
 .container{
     background-color: rgb(230, 196, 111);
 }
+.tab-content{
+    box-decoration-break: slice;
+}
+image{
+    align-items: flex-end;
+}
