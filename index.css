@@ -1,14 +1,7 @@
 
-.body{
-    background-color: dimgrey;
+body{
+    background-color: rgb(223, 214, 141);
 }
-style
-    .rectangle{
-        padding-top: 40px;
-          width: 500px;px;
-          height: 250px;px;
-          border:1px solid rgb(219, 35, 35); 
-          position: relative;
-          text-align: center;
-        }
-  }
+.container{
+    background-color: rgb(230, 196, 111);
+}
