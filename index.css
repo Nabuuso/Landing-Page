@@ -5,14 +5,32 @@ body{
 .container{
     background-color: rgb(230, 196, 111);
 }
-.tab-content{
-    box-decoration-break: slice;
+body{
+    background-image: url("https://bit.ly/3tjgiHo");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
-#akan1{
-    float: left;    
-     margin: 0 15px 0 0;
-    }
-.p{
-    font-weight: bold;
-    font-style: italic;
+h1{
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Anton', sans-serif;
+}
+.col-md-4 p{
+    font-family: 'Enriqueta', serif;
+    
+}
+h2{
+    font-family: 'Anton', sans-serif;
+    font-size: larger; 
+    text-emphasis-color: ;
+    color: rgb(253, 255, 253); 
+}
+span{
+    color: rgb(42, 126, 9);
+}
+h1:hover{
+    color: rgb(22, 146, 11);
+}
+span:hover{
+    color: rgb(30, 139, 8);
 }
