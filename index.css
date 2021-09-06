@@ -15,22 +15,15 @@ h1{
     text-align: center;
     font-family: 'Anton', sans-serif;
 }
-.col-md-4 p{
+.col-md-4 h2{
     font-family: 'Enriqueta', serif;
-    
-}
-h2{
-    font-family: 'Anton', sans-serif;
-    font-size: larger; 
-    text-emphasis-color: ;
-    color: rgb(253, 255, 253); 
-}
-span{
-    color: rgb(42, 126, 9);
-}
-h1:hover{
-    color: rgb(22, 146, 11);
-}
-span:hover{
-    color: rgb(30, 139, 8);
+    font-weight: bold;
+    color: lightcyan;
+    }
+li{
+    color: lightgoldenrodyellow;
+    font-weight: bolder;
+    font-family: fantasy;
+    text-emphasis: none;
+
 }
