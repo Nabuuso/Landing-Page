@@ -1,5 +1,5 @@
 alert("AKAN NAMES");
-function nameing(){
+function naming(){
   var CC=parseInt(document.getElementById("name-1").value);
   var YY=parseInt(document.getElementById("name-2").value);
   var MM=parseInt(document.getElementById("name-3").value);
@@ -84,9 +84,6 @@ if(dayOfTheWeek===0){
             alert("you were born:" + day[6]);
             alert("Your Akan name is:" + maleNames[6]);
             alert("Your Akan name is:" + femaleNames[6]);
+            }
         }
-    
-
-
-
-
+    }
