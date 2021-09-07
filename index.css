@@ -28,11 +28,9 @@ li{
     font-family: fantasy;
     text-emphasis: none;
     text-shadow: lightgreen;
-    font-size: xx-large;
+    font-size: larger;
 }
 h2{
-    text-emphasis: none;
-    font-weight: bolder;
-    color: blanchedalmond;
-    font-style: italic;
+    font-family: fantasy;
+    color: rgb(250, 247, 246); 
 }

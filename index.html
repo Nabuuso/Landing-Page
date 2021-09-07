@@ -62,19 +62,39 @@
                       <li>Saturday: Kwame</li>
                   </ul>
               </div>
+              <div>
               <div class="col-md-4"></div>
-                <h2>Fill this Form</h2>
-              <form>
+                <p>Fill this form to know your Akan name</p>
+                <form id="index.html"></form>
                 <div>
-                  <label for="Year"></label>
-                  <div>
-                    <label for="Month"></label>
+                <div class="form">
+                    <label for="input-century">Year</label>
+                    <input type="number" class="form" id="main" required placeholder="year"><br>
+                    <div class="form">
+                      <div>
+                    <label for="input-Day">Day</label>
+                    <input type="number" class="form" id="name" required placeholder="Day"><br>
+                    </div>
                     <div>
-                      <label for="Day"></label>
+                    <div class="form">
+                    <label for="input-Month">Month</label>
+                    <input type="number" class="form" required placeholder="Month"><br>
+                    <div class="input">
+                      <br><input type="radio" name="gender" class="name" id="input" value="male" required>Male
+                  </div>
+                  <div class="input">
+                      <br><input type="radio" name="gender" class="name" id="input" value="female" required>Female
+                  </div>
+                  <button type="button" name="button" class="click" onclick="naming();">Submit</button>
+                  </div>
+                  </div>
+                  </div>
                     </div>
                   </div>
+
+
+                    </div>
                 </div>
-              </form>
 
 </body>
 </html>
