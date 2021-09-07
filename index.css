@@ -29,5 +29,10 @@ li{
     text-emphasis: none;
     text-shadow: lightgreen;
     font-size: xx-large;
-
+}
+h2{
+    text-emphasis: none;
+    font-weight: bolder;
+    color: blanchedalmond;
+    font-style: italic;
 }
